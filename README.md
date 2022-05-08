@@ -1,9 +1,13 @@
-# parazetamol_crack
+# parazetamol_cr
 
 Parazetamol .
 
-Imagine getting cracked by Nyzox#0258
+Imagine getting cracked by nt#1078, speedy#5418
 
-Inject while loading into server or while being in server. The execution won't otherwise work due their pasted threading :) Enjoy
+Inject while loading into server or while being in server. The execution won't otherwise work due their pasted threading :) 
+Enjoy
 
 Make sure your logged into steam since their overlay is made with steams present
+
+Download the compiled version:
+https://github.com/SpeedyThePaster/parazetamol_cr/releases/tag/v1.1
